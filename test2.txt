@@ -1,0 +1,5 @@
+This file is under c:\DeleteMe\TryGIT\newGitTest folder. 
+
+We are trying to learn GIT!!
+
+Happy Learning!!
